@@ -1,8 +1,8 @@
 ### 👋 Hi there, I'm  Harunur Rashid 👋
 - 👀 I’m interested in programming
-- 🌱 I’m already learnt Web development
-- <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />I am working with React js, Mongodb etc.
+- 🌱 I am working with React js, Mongodb etc.
 - 🎯 I always focus on a new project or challenge
+- 🐱‍👤 I am from Bangladesh
 
 
 ### Languages and Tools:
