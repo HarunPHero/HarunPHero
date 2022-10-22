@@ -18,8 +18,6 @@
 <img align="left" alt="bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
 <img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/tailwind/tailwind.png" />
 <img align="left" alt="mui" width="26px" src="https://mui.com/static/logo.png" />
-<br/>
-<br/>
 <img align="left" alt="firebase" width="33px" src="https://firebase.google.com/static/downloads/brand-guidelines/PNG/logo-vertical.png" />
 <img align="left" alt="netlify" width="26px" src="https://seeklogo.com/images/N/netlify-logo-BD8F8A77E2-seeklogo.com.png" />
 <img align="left" alt="heroku" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ1q6Chg-afy2CYOugNgFc_VB0I1mwO0I_AmQIOuJo-Q&s" />
