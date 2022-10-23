@@ -13,6 +13,20 @@
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=harunphero&card_width=550)](https://github.com/harunphero/harunphero)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=harunphero)  
-![Profile views](https://gpvc.arturio.dev/harunphero)  
+## My trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=harunphero)](https://github.com/ryo-ma/github-profile-trophy)
+<br/>
+<br/>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=harunphero)
+
+<br/>
+<br/>
+
+![GitHub metrics](https://metrics.lecoq.io/harunphero) 
+<br/>
+<br/>
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=harunphero)  
+
+![Profile views](https://gpvc.arturio.dev/harunphero) 
+
 
