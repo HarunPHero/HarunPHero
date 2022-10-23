@@ -14,7 +14,7 @@
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=harunphero&card_width=550)](https://github.com/harunphero/harunphero)
 
 ## My trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=harunphero)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=harunphero)](https://github.com/harunphero)
 <br/>
 <br/>
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=harunphero)
