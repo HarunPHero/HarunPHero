@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm  Harunur Rashid 👋
+# 👋 Hi there, I'm  Harunur Rashid 👋
 - 👀 I’m interested in programming
 - 🌱 I am working with React js, Mongodb etc.
 - 🎯 I always focus on a new project or challenge
@@ -32,3 +32,7 @@
 [![Top Langs card](https://github-readme-stats.vercel.app/api?username=harunphero&show_icons=true)](https://github.com/harunphero/harunphero)
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=harunphero&card_width=550)](https://github.com/harunphero/harunphero)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=harunphero)  
+![Profile views](https://gpvc.arturio.dev/harunphero)  
+
