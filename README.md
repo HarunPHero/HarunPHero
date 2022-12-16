@@ -17,7 +17,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=harunphero)](https://github.com/harunphero)
 <br/>
 <br/>
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=harunphero)
+
 
 <br/>
 <br/>
