@@ -9,9 +9,9 @@
 
 <img width="850px" height="45px" src="https://i.ibb.co/BsKw7PM/l-t.jpg" alt=""/>
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api?username=harunphero&show_icons=true)](https://github.com/harunphero/harunphero)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harunphero&show_icons=true&locale=en&layout=compact" alt="harunphero" /></p>
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=harunphero&card_width=550)](https://github.com/harunphero/harunphero)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harunphero&show_icons=true&locale=en" alt="harunphero" /></p>
 
 ## My trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=harunphero)](https://github.com/harunphero)
@@ -27,6 +27,6 @@
 <br/>
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=harunphero)  
 
-![Profile views](https://gpvc.arturio.dev/harunphero) 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harunphero&label=Profile%20views&color=0e75b6&style=flat" alt="harunphero" /> </p>
 
 
